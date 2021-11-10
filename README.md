@@ -1,4 +1,4 @@
-# DevOps-learning-repo-1
+://courses.edx.org/certificates/6f2d751d2f24407d87ecb71a43752c47 DevOps-learning-repo-1
 
 ***
 Comment 1:
@@ -7,4 +7,5 @@ This is a repo that is created to learn Github, remote repos, how to push and pu
 ***
 Achievement No. 1
 Introduction to Computing and Program with Python.
-This is a course hosted by MIT on EDx. Using Python, I learned recurssive programming, Maths, Logic, Syntax, and how to program basic apps. The course is graded and I achieved 95/100. Click ![here](https://courses.edx.org/certificates/6f2d751d2f24407d87ecb71a43752c47) to view my certificate of completion.
+This is a course hosted by MIT on EDx. Using Python, I learned recurssive programming, Maths, Logic, Syntax, and how to program basic apps. The course is graded and I achieved 95/100.
+***
