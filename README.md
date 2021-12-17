@@ -16,7 +16,7 @@ Link to certificates:
 
 Credly: https://www.credly.com/badges/1ba9333d-5287-480d-a91c-558ce33353da?source=linked_in_profile
 
-Coursera: https://www.courhttps://www.credly.com/badges/1ba9333d-5287-480d-a91c-558ce33353da?source=linked_in_profilesera.https://www.credly.com/badges/1ba9333d-5287-480d-a91c-558ce33353da?source=linked_in_profileorg/account/accomplishments/specialization/certificate/EQLQ26XAJ5XR
+Coursera: https://www.coursera.org/account/accomplishments/specialization/certificate/EQLQ26XAJ5XR
 
 Individual Courses:
 
